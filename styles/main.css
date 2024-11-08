@@ -151,3 +151,7 @@ footer p {
 #nav_menu .current{
 	color: yellow;
 }
+
+#nav_menu{
+	position: relative;
+}
