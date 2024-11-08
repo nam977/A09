@@ -134,3 +134,19 @@ nav ul{
 ul li{
 	float: left;
 }
+
+a li{
+	display: block;
+	width: 20%;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-decoration: none;
+	background-color: #800000;
+	color: white;
+	font-weight: bold;
+}
+
+.current{
+	color: yellow;
+}
