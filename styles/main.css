@@ -175,3 +175,7 @@ footer p {
 	clear: both;
 	display: block;
 }
+
+main section ul li{
+	list-style-type: circle;
+}
